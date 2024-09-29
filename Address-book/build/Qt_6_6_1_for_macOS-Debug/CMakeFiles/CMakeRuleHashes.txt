@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+7a88c64f311f6c247dabd2fb919a3507 Address-Book_autogen/timestamp
+4aa3b42827012483d733438462a79fcb CMakeFiles/Address-Book_autogen
+4aa3b42827012483d733438462a79fcb CMakeFiles/Address-Book_autogen_timestamp_deps

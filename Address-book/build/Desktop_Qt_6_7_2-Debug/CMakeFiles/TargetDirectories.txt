@@ -1,0 +1,9 @@
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Address-Book.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Address-Book_autogen_timestamp_deps.dir
+/home/edvard/Desktop/Address-Book/Address-Book/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Address-Book_autogen.dir
